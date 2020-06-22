@@ -4,4 +4,5 @@ class Dog
 end
 
 
-def name 
+def name
+  @the_dog_name
