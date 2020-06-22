@@ -6,3 +6,5 @@ end
 
 def name
   @the_dog_name
+end
+end
